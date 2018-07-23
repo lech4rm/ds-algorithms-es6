@@ -1,0 +1,25 @@
+{
+  "name": "ds-algorithms-es6",
+  "version": "1.0.0",
+  "description": "Teaching myself some DS and Algorithms",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lech4rm/ds-algorithms-es6.git"
+  },
+  "author": "Leo Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lech4rm/ds-algorithms-es6/issues"
+  },
+  "homepage": "https://github.com/lech4rm/ds-algorithms-es6#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
